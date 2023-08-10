@@ -1,4 +1,4 @@
-
+<h1>Портфолио: инженер по тестированию<h1>  
 <h2>Обо мне</h2>
 <h6>
   Привет!
@@ -7,23 +7,11 @@
 <h2>Навыки и технологии</h2>
 <div id="badges">
   
-    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="your--URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</div>
-
-<h2>Проекты</h2>
-
+    
 <h2>Контактная информация</h2>
 <div id="badges">
   <a href="mailto:seamanpunk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
