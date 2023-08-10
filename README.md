@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/Proficool/My-portfolio/blob/main/%D0%A2%D0%95%D0%A1%D0%A2.png" width="30px"/>   Портфолио: инженер по тестированию<h1>  
+<h1> <img src="https://github.com/Proficool/My-portfolio/blob/main/portfolio.png" width="64px"/>   Портфолио: инженер по тестированию<h1>  
 <h2>Обо мне</h2>
 <h6>
   Привет!
