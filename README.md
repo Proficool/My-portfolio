@@ -1,15 +1,35 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
- <h1>Портфолио: инженер по тестированию</h1>
-<h2>Обо мне</h2> 
-
-![](https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330)
-<h6>Привет! Меня зовут Виталий, я начинающий инженер в мире тестирования. Исследую цифровые песчинки, ищу дефекты, строю качество, расту в профессионала.  В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h6>
+<h2>Обо мне</h2>
+<h6>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Меня зовут Виталий, я начинающий инженер в мире тестирования. Исследую цифровые песчинки, ищу дефекты, строю качество, расту в профессионала.  В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h6>
 <h2>Навыки и технологии</h2>
-
+<div id="badges">
+  
+    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="your--URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</div>
 
 <h2>Проекты</h2>
 
 <h2>Контактная информация</h2>
+<div id="badges">
+  <a href="mailto:seamanpunk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</div>
