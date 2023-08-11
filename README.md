@@ -50,7 +50,7 @@
   <a href="mailto:seamanpunk@gmail.com">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
-  <a href="http://t-do.ru/aspia_ru "https://t.me/Seamanpunk"">
+  <a href="mailto:seamanpunk@gmail.com">
     <img src="https://img.shields.io/badge/gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vitaly-popkov-b39bb0287/">
