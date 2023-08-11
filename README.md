@@ -4,7 +4,9 @@
   Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 Меня зовут Виталий, я начинающий инженер в мире тестирования. Исследую цифровые песчинки, ищу дефекты, строю качество, расту в профессионала.  В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h4>
-<h2>Навыки и технологии</h2>
+<h2><img src="https://github.com/Proficool/My-portfolio/blob/main/%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8.png" width="50px"/>     Навыки и технологии</h2>   
+
+
 <h4><code>Jira</code>, <code>qase.io</code>, <code>SQL</code>, <code>Postman</code>, <code>Fiddler</code>, <code>Swagger</code>, <code>Trello</code>,
 <code>SoapUI</code>, <code>Android Studio</code>, <code>xCode</code>, <code>Charles</code>, <code>Git</code>, <code>Chrome DevTools</code></h4>
  <h2>Проекты</h2> 
