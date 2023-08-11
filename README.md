@@ -13,7 +13,7 @@
   <a href="mailto:seamanpunk@gmail.com">
     <img src="https://img.shields.io/badge/gmail-green?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/vitaly-popkov-b39bb0287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
