@@ -47,7 +47,7 @@
 Итог №2 </h4>
 <h2><img src="https://github.com/Proficool/My-portfolio/blob/main/%D0%98%D0%BD%D1%84%D0%BE.png" width="55px"/>Контактная информация</h2> 
 <div id="badges">
-  <a href="mailto:seamanpunk@gmail.com">
+  <a href="http://t-do.ru/Seamanpunk"Telegram channel">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
   <a href="mailto:seamanpunk@gmail.com">
