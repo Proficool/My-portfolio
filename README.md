@@ -1,5 +1,5 @@
 ~~*<h1> <img src="https://github.com/Proficool/My-portfolio/blob/main/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.png" width="64px"/>  Портфолио: инженер по тестированию<h1>*~~
-<h2>Обо мне</h2>
+<h2> <img src="https://github.com/Proficool/My-portfolio/blob/main/%D0%9E%D0%B1%D0%BE%20%D0%BC%D0%BD%D0%B5.png" width="55px"/>Обо мне</h2>  
 <h4>
   Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -9,7 +9,7 @@
 
 <h4><code>Jira</code>, <code>qase.io</code>, <code>SQL</code>, <code>Postman</code>, <code>Fiddler</code>, <code>Swagger</code>, <code>Trello</code>,
 <code>SoapUI</code>, <code>Android Studio</code>, <code>xCode</code>, <code>Charles</code>, <code>Git</code>, <code>Chrome DevTools</code></h4>
- <h2>Проекты</h2> 
+ <h2><img src="" width="55px"Проекты</h2> 
  <h4>Проект 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
