@@ -9,7 +9,7 @@
 
 <h4><code>Jira</code>, <code>qase.io</code>, <code>SQL</code>, <code>Postman</code>, <code>Fiddler</code>, <code>Swagger</code>, <code>Trello</code>,
 <code>SoapUI</code>, <code>Android Studio</code>, <code>xCode</code>, <code>Charles</code>, <code>Git</code>, <code>Chrome DevTools</code></h4>
- <h2><img src="" width="55px"Проекты</h2> 
+ <h2><img src="https://github.com/Proficool/My-portfolio/blob/main/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D1%8C.png" width="50px"/>    Проекты</h2> 
  <h4>Проект 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
